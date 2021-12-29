@@ -1,0 +1,5 @@
+Aplicativos que estão sendo utilizados para o Bootcamp da DIO
+
+1- Portugol: http://lite.acad.univali.br/portugol/
+
+2- Flowgorithm: http://flowgorithm.org/download/index.html
